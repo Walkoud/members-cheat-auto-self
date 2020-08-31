@@ -3,7 +3,7 @@
 "token": "your main token",
 "restartautotoken": true,
 "payid": "PAY COIN TO ID, your id maybe",
-"intervalle-seconds": "10",
+"intervalleseconds": "10",
 
 
 
