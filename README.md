@@ -1,9 +1,9 @@
 # members-cheat-auto-self
 A tool to join tokens automaticly on a servers to farm coins !
 
+Server discord: https://discord.gg/pcQz9AJ
 
-
-Besoin de nodejs et de git installé sur votre Windows
+Besoin de nodejs et de git installé sur votre Windows <br/>
 Need NodeJs and GIT in Windows
 
 
