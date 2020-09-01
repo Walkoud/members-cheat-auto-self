@@ -40,8 +40,8 @@ $ npm install
 $ npm install discord.js@11
 $ node index.js
 ```
-N'oubliez pas de changer votre configuration dans le config.json !
-
+N'oubliez pas de changer votre configuration dans le config.json ! <br/>
+Don't forget to change config.json !
 
 ### Configuration TOKEN , PAY_ID , RESTARTAUTO,  WORK_TOKENS
 
