@@ -1,6 +1,5 @@
 
-# members-cheat-auto-self
-
+# Members+ Cheat AUTO
 
 A tool to join tokens automaticly on a servers to farm coins !
 
