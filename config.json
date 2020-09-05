@@ -5,8 +5,7 @@
 "payid": "PAY COIN TO ID, your id maybe",
 "intervalleseconds": "500",
 
-
-
+"i recommend 1000 seconds, or you are blacklist ip from discord": "",
 
 "Tu peux en ajouter encore, n'oublie pas de mettre la virgule, et n'en met pas pour le dernier token": "",
 "You can add more, don't forget to put the comma, and don't put any for the last token": "",
