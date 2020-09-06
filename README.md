@@ -8,7 +8,8 @@ Server discord: https://discord.gg/pcQz9AJ
 Besoin de nodejs et de git installé sur votre Windows <br/>
 Need NodeJs and GIT in Windows
 
-#commands
+## commands
+
 Type +xhelp
 
 ## Installation Windows
