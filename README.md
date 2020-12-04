@@ -1,5 +1,5 @@
-
-# Members+ Cheat AUTO SelfBot
+# Sorry the bot Members+ has been deleted :(
+# Members+ Cheat AUTO SelfBot  
 
 A tool to join tokens automaticly on a servers to farm coins !
 
